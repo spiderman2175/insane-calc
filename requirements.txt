@@ -1,0 +1,6 @@
+numpy
+MDAnalysis
+nglview
+sklearn.decomposition
+requests
+Bio.PDB

@@ -1,6 +1,6 @@
 numpy
 MDAnalysis
 nglview
-sklearn.decomposition
+sklearn
 requests
-Bio.PDB
+Bio
